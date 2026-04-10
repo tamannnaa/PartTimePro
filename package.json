@@ -1,0 +1,21 @@
+{
+  "name": "parttimepro",
+  "version": "1.0.0",
+  "description": "A part-time job platform connecting workers with flexible opportunities",
+  "main": "backend/server.js",
+  "scripts": {
+    "backend": "cd backend && npm start",
+    "frontend": "cd client && npm start",
+    "dev": "concurrently \"npm run backend\" \"npm run frontend\"",
+    "install-all": "npm install && cd backend && npm install && cd ../client && npm install"
+  },
+  "keywords": [
+    "part-time",
+    "jobs",
+    "employment",
+    "platform"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+
