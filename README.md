@@ -2,11 +2,6 @@
 
 A modern, full-stack job portal application designed for blue-collar and part-time workers. Connecting workers with local employers for gig, contract, and part-time opportunities.
 
-![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
-![Frontend](https://img.shields.io/badge/Frontend-React%20%2B%20TypeScript-blue)
-![Backend](https://img.shields.io/badge/Backend-FastAPI%20%2B%20Python-green)
-
 ---
 
 ## 📋 Table of Contents
